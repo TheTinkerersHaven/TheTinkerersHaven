@@ -1,4 +1,4 @@
-# Welcome to TheTinkerersHaven! 👋
+# Welcome to my profile page 👋
 
 ![Profile Banner](https://capsule-render.vercel.app/api?text=Benvenuto!&animation=fadeIn&type=waving&color=gradient&height=100)
 
