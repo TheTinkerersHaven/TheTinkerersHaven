@@ -6,7 +6,7 @@
 
 - 🌍 **Location:** Treviso, Veneto, Italy
 - 🎓 **Education:** High School Student
-- 💻 **Languages:** C++, Python, HTML, CSS
+- 💻 **Languages:** C++, Python, HTML, CSS, JavaScript
 - 🌐 **Website:** [gregoriomontagner.altervista.org](http://gregoriomontagner.altervista.org)
 
 ## GitHub Stats
