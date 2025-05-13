@@ -15,8 +15,9 @@
 
 ## Projects
 
-Here are some of my notable (not really, maybe in the future) projects:
+Here are some of my notable-ish projects:
 
+- [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) (in collaboration with @Fleny113): A simple TUI-based city simulator, my (our) proudest creation so far.
 - [**Marlin-Ender3Pro-Tuned**](https://github.com/TheTinkerersHaven/Marlin-Ender3Pro-Tuned): Customized Marlin firmware for the Ender 3 Pro with BTT SKR Mini E3 V3.
 - [**SitoRiferimentoHTML**](https://github.com/TheTinkerersHaven/SitoRiferimentoHTML): My HTML website, slowly "evolving" as we learn more things.
 
