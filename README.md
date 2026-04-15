@@ -6,8 +6,8 @@
 
 - 🌍 **Location:** Treviso, Veneto, Italy
 - 🎓 **Education:** High School Student
-- 💻 **Languages:** Java, C/C++, Python, JavaScript, PHP, HTML, CSS
-- 🌐 **Website:** [gregoriomontagner.altervista.org](http://gregoriomontagner.altervista.org)
+- 💻 **Languages:** Java, C/C++, PHP, Python, JavaScript, HTML, CSS
+- 🌐 **Website:** [thetinkerershaven.github.io](https://thetinkerershaven.github.io)
 
 ## GitHub Stats
 
@@ -17,9 +17,11 @@
 
 Here are some of my notable-ish projects:
 
+- [**The Tinkerers's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io): My new and shiny website made in Svelte.
+- [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) (in collaboration with @Mat-dev-08 and @Fleny113): A platformer game made made in Godot engine for Hack Club Daydream 2025.
 - [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) (in collaboration with @Fleny113): A simple TUI-based city simulator, my (our) proudest creation so far.
 - [**Marlin-Ender3Pro-Tuned**](https://github.com/TheTinkerersHaven/Marlin-Ender3Pro-Tuned): Customized Marlin firmware for the Ender 3 Pro with BTT SKR Mini E3 V3.
-- [**SitoRiferimentoHTML**](https://github.com/TheTinkerersHaven/SitoRiferimentoHTML): My HTML website, slowly "evolving" as we learn more things.
+- [**SitoRiferimentoHTML**](https://github.com/TheTinkerersHaven/SitoRiferimentoHTML): My HTML school website with some school stuff.
 
 ## Skills
 
