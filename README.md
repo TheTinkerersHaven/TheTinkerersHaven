@@ -6,7 +6,7 @@
 
 - 🌍 **Location:** Treviso, Veneto, Italy
 - 🎓 **Education:** High School Student
-- 💻 **Languages:** Java, C/C++, PHP, Python, JavaScript, HTML, CSS
+- 💻 **Languages:** Java, C/C++, PHP, Python, JavaScript, HTML, CSS, Svelte
 - 🌐 **Website:** [thetinkerershaven.github.io](https://thetinkerershaven.github.io)
 
 ## GitHub Stats
@@ -28,8 +28,9 @@ Here are some of my notable-ish projects:
 [![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?logo=openjdk&logoColor=white)](#)
 [![C++](https://img.shields.io/badge/C++-%2300599C.svg?logo=c%2B%2B&logoColor=white)](#)
 [![C](https://img.shields.io/badge/C-00599C?logo=c&logoColor=white)](#)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
-[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?&logo=php&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
+[![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](#)
