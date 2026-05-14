@@ -44,9 +44,3 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](#)
 [![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&logoColor=478CBF)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](#)
-
-## 📈 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TheTinkerersHaven&show_icons=true&theme=radical&hide_border=true" alt="TheTinkerersHaven's GitHub Stats" />
-</div>
