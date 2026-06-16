@@ -18,7 +18,7 @@
 
 | Project | Description |
 |---------|-------------|
-| [**The Tinkerers's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io) | My personal portfolio and hub, built from the ground up with **Svelte**. |
+| [**The Tinkerer's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io) | My personal portfolio and hub, built from the ground up with **Svelte**. |
 | [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) | A proud creation: A lightweight, TUI-based city simulator built in collaboration with [@Fleny113](https://github.com/Fleny113). |
 | [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) | A platformer game built in the Godot engine for Hack Club Daydream 2025. Co-developed with [@Mat-dev-08](https://github.com/Mat-dev-08) and [@Fleny113](https://github.com/Fleny113). |
 | [**Marlin-Ender3Pro-Tuned**](https://github.com/TheTinkerersHaven/Marlin-Ender3Pro-Tuned) | Custom-tuned Marlin firmware specifically optimized for the Ender 3 Pro equipped with a BTT SKR Mini E3 V3. |
@@ -39,6 +39,7 @@
 [![CSS3](https://img.shields.io/badge/CSS-639?logo=css&logoColor=fff)](#)
 [![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000)](#)
 [![Svelte](https://img.shields.io/badge/Svelte-FF3E00?logo=svelte&logoColor=white)](#)
+[![Astro](https://img.shields.io/badge/Astro-%230D1117.svg?logo=astro&logoColor=white)](#)
 
 ### Tools & OS
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](#)
