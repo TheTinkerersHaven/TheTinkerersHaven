@@ -10,19 +10,30 @@
 ## 👨‍💻 About Me
 
 - 🌍 **Location:** Treviso, Veneto, Italy
-- 🎓 **Education:** 4th-year Computer Science High School Student
-- 🛠️ **Interests:** Developing software, 3D printing (Marlin/Klipper), hardware tinkering, and ricing Arch Linux.
-- 🌐 **Website:** Check out my shiny new Svelte site: [thetinkerershaven.github.io](https://thetinkerershaven.github.io)
+- 🎓 **Education:** Computer Science Student
+- 🛠️ **Interests:** Hobbyist electronics, 3D printing, gaming, photography, and exploring the intersection of art and technology.
+- 🎮 **Username:** TheTinkerersHaven (serious stuff) or Greg7327 (gaming stuff)
+- 🌐 **Website:** Check out my site: [thetinkerershaven.github.io](https://thetinkerershaven.github.io)
 
 ## 🚀 Notable Projects
 
-| Project | Description |
-|---------|-------------|
-| [**The Tinkerer's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io) | My personal portfolio and hub, built from the ground up with **Svelte**. |
-| [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) | A proud creation: A lightweight, TUI-based city simulator built in collaboration with [@Fleny113](https://github.com/Fleny113). |
-| [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) | A platformer game built in the Godot engine for Hack Club Daydream 2025. Co-developed with [@Mat-dev-08](https://github.com/Mat-dev-08) and [@Fleny113](https://github.com/Fleny113). |
-| [**Marlin-Ender3Pro-Tuned**](https://github.com/TheTinkerersHaven/Marlin-Ender3Pro-Tuned) | Custom-tuned Marlin firmware specifically optimized for the Ender 3 Pro equipped with a BTT SKR Mini E3 V3. |
-| [**SitoRiferimentoHTML**](https://github.com/TheTinkerersHaven/SitoRiferimentoHTML) | A collection of school-related HTML projects and references. |
+| Project | Description | Made for | Tech |
+|---------|-------------|----------|------|
+| [**The Tinkerer's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io) | This exact website! First written in Svelte, then remade into what it is now. | Myself | Astro |
+| [**Space4Arch**](https://github.com/PlanckTeam/Space4Arch) | Archeology app, innovation project for Planck Team (FIRST Lego League 2025-2026). In collaboration with [@Fleny113](https://github.com/Fleny113). | Planck Team | Expo (React Native) |
+| [**Planck Team Website**](https://github.com/PlanckTeam/planckteam.github.io) | Website for Planck Team (FIRST Lego League & FIRST Tech Challenge). | Planck Team | Astro |
+| [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) | Platformer tower-climb game made for Hack Club Daydream. | Hack Club Daydream | Godot |
+| [**SpinKeys**](https://github.com/TheTinkerersHaven/SpinKeys-Hackpad) | 5-key hackpad with two dials made for Hack Club Blueprint. | Hack Club Blueprint | KiCad, Vial |
+| [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) | Simple TUI-based city simulator. In collaboration with [@Fleny113](https://github.com/Fleny113). | School | C++ |
+| [**Restaurant Simulator 26**](https://github.com/TheTinkerersHaven/RestaurantSimulator26) | Java Swing-based GUI restaurant simulator. In collaboration with [@Fleny113](https://github.com/Fleny113). | School | Java |
+
+## 🎨 Hobbies
+
+- 📷 **Photography** – Amateur photographer, check out my [photos](https://twolenstales.altervista.org)
+- 🖨️ **3D Printing** – Custom firmware tuning, speed printing ([SpeedBenchy](https://www.youtube.com/watch?v=1wVxR89_HFU))
+- 🔧 **DIY Electronics** – Arduinos and custom PCBs
+- 🎮 **Gaming** – Fan of Murder Drones 🪰
+- 🎵 **Music** – Drum & Bass enthusiast and fan of furry-made tracks
 
 ## 🛠️ Skills & Technologies
 
@@ -45,3 +56,8 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](#)
 [![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&logoColor=478CBF)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](#)
+
+## 🌐 Find Me Online
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/TheTinkerersHaven)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@tinkerershaven)
