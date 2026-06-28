@@ -34,7 +34,7 @@
 - 📷 **Photography** – Amateur photographer, check out my [photos](https://twolenstales.altervista.org)
 - 🖨️ **3D Printing** – Custom firmware tuning, speed printing ([SpeedBenchy](https://www.youtube.com/watch?v=1wVxR89_HFU))
 - 🔧 **DIY Electronics** – Arduinos and custom PCBs
-- 🎞️ **Movies and Series** – Fan of Murder Drones 🪰
+- 🎞️ **Movies and Series** – Fan of Murder Drones 
 - 🎵 **Music** – Drum & Bass enthusiast and fan of furry-made tracks
 
 ## 🛠️ Skills & Technologies
