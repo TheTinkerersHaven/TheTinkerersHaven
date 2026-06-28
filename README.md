@@ -3,6 +3,8 @@
 
 <p align="center">
   <a href="https://thetinkerershaven.github.io">Website</a>
+  -
+  <a href="https://www.youtube.com/@tinkerershaven">YouTube</a>
 </p>
 
 ---
@@ -56,8 +58,3 @@
 [![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)](#)
 [![Godot](https://img.shields.io/badge/Godot-%23FFFFFF.svg?logo=godot-engine&logoColor=478CBF)](#)
 [![Git](https://img.shields.io/badge/Git-%23F05033.svg?logo=git&logoColor=white)](#)
-
-## 🌐 Find Me Online
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?logo=github&logoColor=white)](https://github.com/TheTinkerersHaven)
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white)](https://www.youtube.com/@tinkerershaven)
