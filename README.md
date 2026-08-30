@@ -21,13 +21,15 @@
 
 | Project | Description | Made for | Tech |
 |---------|-------------|----------|------|
+| [**MiniChat**](https://github.com/TheTinkerersHaven/minichat) | A Flutter chat client for LLMs with OpenAI-compatible APIs, featuring local speech recognition via Whisper. | PoliCollege | Flutter |
 | [**The Tinkerer's Website**](https://github.com/TheTinkerersHaven/thetinkerershaven.github.io) | My personal website! First written in Svelte, then remade into what it is now. | Myself | Astro |
-| [**Space4Arch**](https://github.com/PlanckTeam/Space4Arch) | Archeology app, innovation project for Planck Team (FIRST Lego League 2025-2026). In collaboration with [@Fleny113](https://github.com/Fleny113). | Planck Team | Expo (React Native) |
 | [**Planck Team Website**](https://github.com/PlanckTeam/planckteam.github.io) | Website for Planck Team (FIRST Lego League & FIRST Tech Challenge). | Planck Team | Astro |
-| [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) | Platformer tower-climb game made for Hack Club Daydream. | Hack Club Daydream | Godot |
-| [**SpinKeys**](https://github.com/TheTinkerersHaven/SpinKeys-Hackpad) | 5-key hackpad with two dials made for Hack Club Blueprint. | Hack Club Blueprint | KiCad, Vial |
-| [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) | Simple TUI-based city simulator. In collaboration with [@Fleny113](https://github.com/Fleny113). | School | C++ |
+| [**Space4Arch**](https://github.com/PlanckTeam/Space4Arch) | Archeology app, innovation project for Planck Team (FIRST Lego League 2025-2026). In collaboration with [@Fleny113](https://github.com/Fleny113). | Planck Team | Expo (React Native) |
 | [**Restaurant Simulator 26**](https://github.com/TheTinkerersHaven/RestaurantSimulator26) | Java Swing-based GUI restaurant simulator. In collaboration with [@Fleny113](https://github.com/Fleny113). | School | Java |
+| [**SpinKeys**](https://github.com/TheTinkerersHaven/SpinKeys-Hackpad) | 5-key hackpad with two dials made for Hack Club Blueprint. | Hack Club Blueprint | KiCad, Vial |
+| [**TerraLevel**](https://github.com/TheTinkerersHaven/TerraLevel) | Platformer tower-climb game made for Hack Club Daydream. | Hack Club Daydream | Godot |
+| [**CitySim**](https://github.com/TheTinkerersHaven/CitySim) | Simple TUI-based city simulator. In collaboration with [@Fleny113](https://github.com/Fleny113). | School | C++ |
+| [**Encodechet**](https://github.com/TheTinkerersHaven/Encodechet) | A useless encoder/decoder for text files in the custom .edch format, now rewritten in Rust! In collaboration with [@Fleny113](https://github.com/Fleny113). | Myself | Rust |
 
 ## 🎨 Hobbies
 
