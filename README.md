@@ -12,8 +12,8 @@
 ## 👨‍💻 About Me
 
 - 🌍 **Location:** Treviso, Veneto, Italy
-- 🎓 **Education:** Computer Science Student
-- 🛠️ **Interests:** Hobbyist electronics, 3D printing, gaming, photography, and exploring the intersection of art and technology.
+- 🎓 **Education:** Computer Science Student @ ITIS "Max Planck" Villorba
+- 🛠️ **Interests:** Hobbyist electronics, 3D printing, gaming, photography, programming.
 - 🎮 **Username:** TheTinkerersHaven (serious stuff) or Greg7327 (gaming stuff)
 - 🌐 **Website:** Check out my site: [thetinkerershaven.github.io](https://thetinkerershaven.github.io)
 
@@ -31,11 +31,11 @@
 
 ## 🎨 Hobbies
 
-- 📷 **Photography** – Amateur photographer, check out my [photos](https://twolenstales.altervista.org)
-- 🖨️ **3D Printing** – Custom firmware tuning, speed printing ([SpeedBenchy](https://www.youtube.com/watch?v=1wVxR89_HFU))
-- 🔧 **DIY Electronics** – Arduinos and custom PCBs
-- 🎞️ **Movies and Series** – Fan of Murder Drones 
-- 🎵 **Music** – Drum & Bass enthusiast and fan of furry-made tracks
+- 📷 **Photography** – Amateur photographer, check out my [photos](https://twolenstales.altervista.org) (rarely post, might do it more often in the future);
+- 🖨️ **3D Printing** – Custom firmware tuning, speed printing ([SpeedBenchy](https://www.youtube.com/watch?v=1wVxR89_HFU)), mostly making stupidly specific stuff that isn't sold anywhere;
+- 🔧 **DIY Electronics** – Arduinos, ESP32s, custom PCBs, clickity clackity stuff;
+- 🎞️ **Movies and Series** – Huge fan of [Murder Drones](https://www.youtube.com/show/VLPLHovnlOusNLiJz3sm0d5i2Evwa2LDLdrg?sbp=KgttSW1Gejhta2FIb0AB); 
+- 🎵 **Music** – Drum & Bass enthusiast (among Metal and many other genres) and fan of furry-made tracks.
 
 ## 🛠️ Skills & Technologies
 
